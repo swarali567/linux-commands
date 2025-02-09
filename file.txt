@@ -1,0 +1,9 @@
+this is swaralis edit
+this is srujana's edit
+<<<<<<< HEAD
+this is srujana's second edit
+=======
+i is swarali ,am editing for the second time
+>>>>>>> 220755a1c92799ede0cde343ce089764c3e3448a
+bye
+ok byee yashuuu
